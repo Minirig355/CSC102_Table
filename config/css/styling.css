@@ -1,0 +1,43 @@
+body {
+    background-color: #222223;
+    font-family: monospace;
+    font-size: 2.1em;
+    color: #ccc
+}
+h1 {
+    font-variant: small-caps;
+}
+h2 {
+    font-variant: small-caps;
+}
+.telemetry {
+    color: orange;
+}
+input {
+    background-color: #ccc
+}
+#clock {
+    margin: 20px auto;
+    padding: 0;
+    background: #ccc;
+    width: 100%;
+    text-align: center;
+    line-height: 40px;
+    color: #222223;
+    font-size: 34px;
+    font-family: calibri;
+}
+.button {
+    border:#000;
+    color: black;
+    background: #ccc;
+    padding: 12px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
