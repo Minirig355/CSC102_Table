@@ -1,4 +1,4 @@
-I did a small photoshop of the album to match the 'dark' theme I wanted, both the rounded out version (to match better with backgrounds that don't necessarily match) and the fully transparent version are included in case you want to use them for your sites.
+I did a small photoshop of the logo to match the 'dark' theme I wanted, both the rounded out version (to match better with backgrounds that don't necessarily match) and the fully transparent version are included in case you want to use them for your sites.
 
 Due to my different approach to displaying the time (updating onLoad every second and having its own function) I needed a different approach to printing to console, that can be seen separately from the data function as it has its own function. (code.js Lines 116-118)
 
